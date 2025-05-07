@@ -1,0 +1,888 @@
+[
+  {
+    "username": "test-user",
+    "timeLeft": 8,
+    "wpm": 50,
+    "accuracy": "90.2%",
+    "date": "06/05/2025, 16:34:12",
+    "mode": "Speedrunner Mode",
+    "score": 571,
+    "wordList": "finnish"
+  },
+  {
+    "username": "test-user",
+    "timeLeft": 12,
+    "wpm": 58,
+    "accuracy": "97.1%",
+    "date": "06/05/2025, 16:37:23",
+    "mode": "Speedrunner Mode",
+    "score": 641,
+    "wordList": "finnish"
+  },
+  {
+    "username": "test-user",
+    "timeLeft": 7,
+    "wpm": 54,
+    "accuracy": "97.5%",
+    "date": "06/05/2025, 16:42:39",
+    "mode": "Speedrunner Mode",
+    "score": 580,
+    "wordList": "finnish"
+  },
+  {
+    "username": "test-user",
+    "timeLeft": 7,
+    "wpm": 57,
+    "accuracy": "95.3%",
+    "date": "06/05/2025, 17:05:22",
+    "mode": "Speedrunner Mode",
+    "score": 585,
+    "wordList": "finnish"
+  },
+  {
+    "username": "test-user",
+    "timeLeft": 12,
+    "wpm": 75,
+    "accuracy": "100.0%",
+    "date": "06/05/2025, 17:12:44",
+    "mode": "Speedrunner Mode",
+    "score": 857,
+    "wordList": "finnish"
+  },
+  {
+    "username": "test-user",
+    "timeLeft": 38,
+    "wpm": 63,
+    "accuracy": "95.8%",
+    "date": "07/05/2025, 09:21:00",
+    "mode": "Classic Mode",
+    "score": 675,
+    "wordList": "finnish"
+  },
+  {
+    "username": "test-user",
+    "timeLeft": 42,
+    "wpm": 67,
+    "accuracy": "96.3%",
+    "date": "07/05/2025, 09:27:33",
+    "mode": "Classic Mode",
+    "score": 720,
+    "wordList": "finnish"
+  },
+  {
+    "username": "test-user",
+    "timeLeft": 0,
+    "wpm": 62,
+    "accuracy": "92.5%",
+    "date": "07/05/2025, 10:05:12",
+    "mode": "Hard Mode",
+    "score": 0,
+    "wordList": "finnish"
+  },
+  {
+    "username": "test-user",
+    "timeLeft": 9,
+    "wpm": 68,
+    "accuracy": "94.8%",
+    "date": "07/05/2025, 10:09:45",
+    "mode": "Hard Mode",
+    "score": 678,
+    "wordList": "finnish"
+  },
+  {
+    "username": "test-user",
+    "timeLeft": 12,
+    "wpm": 72,
+    "accuracy": "95.2%",
+    "date": "07/05/2025, 10:16:58",
+    "mode": "Hard Mode",
+    "score": 715,
+    "wordList": "finnish"
+  },
+  {
+    "username": "test-user",
+    "wpm": 45,
+    "totalTime": "1:42",
+    "accuracy": "93.7%",
+    "date": "07/05/2025, 14:32:11",
+    "mode": "Zen Mode",
+    "wordList": "english"
+  },
+  {
+    "username": "test-user",
+    "wpm": 48,
+    "totalTime": "1:38",
+    "accuracy": "95.2%",
+    "date": "07/05/2025, 14:35:47",
+    "mode": "Zen Mode",
+    "wordList": "english"
+  },
+  {
+    "username": "test-user",
+    "timeLeft": 22,
+    "wpm": 51,
+    "accuracy": "89.5%",
+    "date": "08/05/2025, 08:44:23",
+    "mode": "Practice Mode",
+    "score": 495,
+    "wordList": "english"
+  },
+  {
+    "username": "test-user",
+    "timeLeft": 25,
+    "wpm": 56,
+    "accuracy": "92.3%",
+    "date": "08/05/2025, 08:50:19",
+    "mode": "Practice Mode",
+    "score": 550,
+    "wordList": "english"
+  },
+  {
+    "username": "test-user",
+    "timeLeft": 28,
+    "wpm": 59,
+    "accuracy": "93.8%",
+    "date": "08/05/2025, 08:58:45",
+    "mode": "Practice Mode",
+    "score": 592,
+    "wordList": "english"
+  },
+  {
+    "username": "test-user",
+    "timeLeft": 14,
+    "wpm": 81,
+    "accuracy": "97.2%",
+    "date": "08/05/2025, 12:23:07",
+    "mode": "Hard Mode",
+    "score": 812,
+    "wordList": "programming"
+  },
+  {
+    "username": "test-user",
+    "timeLeft": 17,
+    "wpm": 83,
+    "accuracy": "98.1%",
+    "date": "08/05/2025, 12:29:51",
+    "mode": "Hard Mode",
+    "score": 845,
+    "wordList": "programming"
+  },
+  {
+    "username": "test-user",
+    "timeLeft": 15,
+    "wpm": 85,
+    "accuracy": "96.4%",
+    "date": "08/05/2025, 12:37:14",
+    "mode": "Hard Mode",
+    "score": 851,
+    "wordList": "programming"
+  },
+  {
+    "username": "test-user",
+    "timeLeft": 22,
+    "wpm": 90,
+    "accuracy": "98.5%",
+    "date": "08/05/2025, 16:12:36",
+    "mode": "Hard Mode",
+    "score": 920,
+    "wordList": "programming"
+  },
+  {
+    "username": "test-user",
+    "timeLeft": 7,
+    "wpm": 61,
+    "accuracy": "93.0%",
+    "date": "09/05/2025, 10:15:27",
+    "mode": "Custom Mode",
+    "score": 605,
+    "wordList": "swedish"
+  },
+  {
+    "username": "test-user",
+    "timeLeft": 8,
+    "wpm": 64,
+    "accuracy": "94.5%",
+    "date": "09/05/2025, 10:21:56",
+    "mode": "Custom Mode",
+    "score": 647,
+    "wordList": "swedish"
+  },
+  {
+    "username": "test-user",
+    "timeLeft": 9,
+    "wpm": 67,
+    "accuracy": "95.2%",
+    "date": "09/05/2025, 10:28:33",
+    "mode": "Custom Mode",
+    "score": 675,
+    "wordList": "swedish"
+  },
+  {
+    "username": "test-user",
+    "timeLeft": 11,
+    "wpm": 70,
+    "accuracy": "96.3%",
+    "date": "09/05/2025, 10:35:19",
+    "mode": "Custom Mode",
+    "score": 718,
+    "wordList": "swedish"
+  },
+  {
+    "username": "test-user",
+    "timeLeft": 3,
+    "wpm": 45,
+    "accuracy": "83.7%",
+    "date": "09/05/2025, 14:45:22",
+    "mode": "Speedrunner Mode",
+    "score": 389,
+    "wordList": "nightmare"
+  },
+  {
+    "username": "test-user",
+    "timeLeft": 0,
+    "wpm": 48,
+    "accuracy": "85.9%",
+    "date": "09/05/2025, 14:51:37",
+    "mode": "Speedrunner Mode",
+    "score": 0,
+    "wordList": "nightmare"
+  },
+  {
+    "username": "test-user",
+    "timeLeft": 5,
+    "wpm": 52,
+    "accuracy": "87.6%",
+    "date": "09/05/2025, 14:57:19",
+    "mode": "Speedrunner Mode",
+    "score": 472,
+    "wordList": "nightmare"
+  },
+  {
+    "username": "test-user",
+    "timeLeft": 7,
+    "wpm": 55,
+    "accuracy": "90.2%",
+    "date": "09/05/2025, 15:03:46",
+    "mode": "Speedrunner Mode",
+    "score": 529,
+    "wordList": "nightmare"
+  },
+  {
+    "username": "test-user",
+    "timeLeft": 41,
+    "wpm": 72,
+    "accuracy": "97.8%",
+    "date": "10/05/2025, 09:12:39",
+    "mode": "Classic Mode",
+    "score": 769,
+    "wordList": "finnish"
+  },
+  {
+    "username": "test-user",
+    "timeLeft": 45,
+    "wpm": 75,
+    "accuracy": "98.2%",
+    "date": "10/05/2025, 09:19:57",
+    "mode": "Classic Mode",
+    "score": 798,
+    "wordList": "finnish"
+  },
+  {
+    "username": "test-user",
+    "wpm": 68,
+    "totalTime": "1:10",
+    "accuracy": "96.5%",
+    "date": "10/05/2025, 11:32:45",
+    "mode": "Zen Mode",
+    "wordList": "programming"
+  },
+  {
+    "username": "test-user",
+    "wpm": 71,
+    "totalTime": "1:05",
+    "accuracy": "97.0%",
+    "date": "10/05/2025, 11:35:28",
+    "mode": "Zen Mode",
+    "wordList": "programming"
+  },
+  {
+    "username": "test-user",
+    "wpm": 73,
+    "totalTime": "1:02",
+    "accuracy": "97.6%",
+    "date": "10/05/2025, 11:38:16",
+    "mode": "Zen Mode",
+    "wordList": "programming"
+  },
+  {
+    "username": "test-user",
+    "timeLeft": 6,
+    "wpm": 54,
+    "accuracy": "91.8%",
+    "date": "10/05/2025, 15:37:34",
+    "mode": "Speedrunner Mode",
+    "score": 519,
+    "wordList": "finnish"
+  },
+  {
+    "username": "test-user",
+    "timeLeft": 7,
+    "wpm": 55,
+    "accuracy": "92.2%",
+    "date": "10/05/2025, 15:42:54",
+    "mode": "Speedrunner Mode",
+    "score": 546,
+    "wordList": "finnish"
+  },
+  {
+    "username": "test-user",
+    "timeLeft": 9,
+    "wpm": 58,
+    "accuracy": "93.5%",
+    "date": "10/05/2025, 15:48:33",
+    "mode": "Speedrunner Mode",
+    "score": 582,
+    "wordList": "finnish"
+  },
+  {
+    "username": "test-user",
+    "timeLeft": 7,
+    "wpm": 41,
+    "accuracy": "88.8%",
+    "date": "11/05/2025, 10:57:33",
+    "mode": "Hard Mode",
+    "score": 384,
+    "wordList": "english"
+  },
+  {
+    "username": "test-user",
+    "timeLeft": 9,
+    "wpm": 44,
+    "accuracy": "90.3%",
+    "date": "11/05/2025, 11:03:17",
+    "mode": "Hard Mode",
+    "score": 415,
+    "wordList": "english"
+  },
+  {
+    "username": "test-user",
+    "timeLeft": 11,
+    "wpm": 47,
+    "accuracy": "91.5%",
+    "date": "11/05/2025, 11:09:42",
+    "mode": "Hard Mode",
+    "score": 439,
+    "wordList": "english"
+  },
+  {
+    "username": "test-user",
+    "timeLeft": 0,
+    "wpm": 39,
+    "accuracy": "82.1%",
+    "date": "11/05/2025, 14:23:18",
+    "mode": "Hard Mode",
+    "score": 0,
+    "wordList": "nightmare"
+  },
+  {
+    "username": "test-user",
+    "timeLeft": 0,
+    "wpm": 42,
+    "accuracy": "84.7%",
+    "date": "11/05/2025, 14:29:45",
+    "mode": "Hard Mode",
+    "score": 0,
+    "wordList": "nightmare"
+  },
+  {
+    "username": "test-user",
+    "timeLeft": 6,
+    "wpm": 46,
+    "accuracy": "87.3%",
+    "date": "11/05/2025, 14:36:12",
+    "mode": "Hard Mode",
+    "score": 415,
+    "wordList": "nightmare"
+  },
+  {
+    "username": "test-user",
+    "timeLeft": 36,
+    "wpm": 65,
+    "accuracy": "94.1%",
+    "date": "12/05/2025, 08:27:45",
+    "mode": "Classic Mode",
+    "score": 682,
+    "wordList": "english"
+  },
+  {
+    "username": "test-user",
+    "timeLeft": 39,
+    "wpm": 67,
+    "accuracy": "95.3%",
+    "date": "12/05/2025, 08:34:19",
+    "mode": "Classic Mode",
+    "score": 708,
+    "wordList": "english"
+  },
+  {
+    "username": "test-user",
+    "timeLeft": 42,
+    "wpm": 70,
+    "accuracy": "96.0%",
+    "date": "12/05/2025, 08:40:52",
+    "mode": "Classic Mode",
+    "score": 740,
+    "wordList": "english"
+  },
+  {
+    "username": "test-user",
+    "timeLeft": 15,
+    "wpm": 57,
+    "accuracy": "93.2%",
+    "date": "12/05/2025, 12:15:38",
+    "mode": "Practice Mode",
+    "score": 585,
+    "wordList": "swedish"
+  },
+  {
+    "username": "test-user",
+    "timeLeft": 18,
+    "wpm": 60,
+    "accuracy": "94.5%",
+    "date": "12/05/2025, 12:22:17",
+    "mode": "Practice Mode",
+    "score": 610,
+    "wordList": "swedish"
+  },
+  {
+    "username": "test-user",
+    "timeLeft": 20,
+    "wpm": 62,
+    "accuracy": "95.1%",
+    "date": "12/05/2025, 12:29:43",
+    "mode": "Practice Mode",
+    "score": 637,
+    "wordList": "swedish"
+  },
+  {
+    "username": "test-user",
+    "wpm": 65,
+    "totalTime": "1:15",
+    "accuracy": "94.8%",
+    "date": "12/05/2025, 15:42:56",
+    "mode": "Zen Mode",
+    "wordList": "english"
+  },
+  {
+    "username": "test-user",
+    "wpm": 67,
+    "totalTime": "1:12",
+    "accuracy": "95.3%",
+    "date": "12/05/2025, 15:46:23",
+    "mode": "Zen Mode",
+    "wordList": "english"
+  },
+  {
+    "username": "test-user",
+    "wpm": 70,
+    "totalTime": "1:09",
+    "accuracy": "96.1%",
+    "date": "12/05/2025, 15:50:12",
+    "mode": "Zen Mode",
+    "wordList": "english"
+  },
+  {
+    "username": "test-user",
+    "timeLeft": 12,
+    "wpm": 75,
+    "accuracy": "95.8%",
+    "date": "13/05/2025, 09:17:22",
+    "mode": "Custom Mode",
+    "score": 765,
+    "wordList": "programming"
+  },
+  {
+    "username": "test-user",
+    "timeLeft": 14,
+    "wpm": 78,
+    "accuracy": "96.7%",
+    "date": "13/05/2025, 09:24:39",
+    "mode": "Custom Mode",
+    "score": 799,
+    "wordList": "programming"
+  },
+  {
+    "username": "test-user",
+    "timeLeft": 16,
+    "wpm": 81,
+    "accuracy": "97.4%",
+    "date": "13/05/2025, 09:31:55",
+    "mode": "Custom Mode",
+    "score": 836,
+    "wordList": "programming"
+  },
+  {
+    "username": "test-user",
+    "timeLeft": 9,
+    "wpm": 59,
+    "accuracy": "93.7%",
+    "date": "13/05/2025, 13:06:17",
+    "mode": "Speedrunner Mode",
+    "score": 602,
+    "wordList": "finnish"
+  },
+  {
+    "username": "test-user",
+    "timeLeft": 10,
+    "wpm": 62,
+    "accuracy": "94.3%",
+    "date": "13/05/2025, 13:12:45",
+    "mode": "Speedrunner Mode",
+    "score": 631,
+    "wordList": "finnish"
+  },
+  {
+    "username": "test-user",
+    "timeLeft": 12,
+    "wpm": 65,
+    "accuracy": "95.0%",
+    "date": "13/05/2025, 13:19:11",
+    "mode": "Speedrunner Mode",
+    "score": 665,
+    "wordList": "finnish"
+  },
+  {
+    "username": "test-user",
+    "timeLeft": 0,
+    "wpm": 43,
+    "accuracy": "85.2%",
+    "date": "14/05/2025, 08:37:15",
+    "mode": "Hard Mode",
+    "score": 0,
+    "wordList": "nightmare"
+  },
+  {
+    "username": "test-user",
+    "timeLeft": 5,
+    "wpm": 47,
+    "accuracy": "87.9%",
+    "date": "14/05/2025, 08:43:43",
+    "mode": "Hard Mode",
+    "score": 428,
+    "wordList": "nightmare"
+  },
+  {
+    "username": "test-user",
+    "timeLeft": 8,
+    "wpm": 51,
+    "accuracy": "89.4%",
+    "date": "14/05/2025, 08:50:21",
+    "mode": "Hard Mode",
+    "score": 463,
+    "wordList": "nightmare"
+  },
+  {
+    "username": "test-user",
+    "timeLeft": 35,
+    "wpm": 68,
+    "accuracy": "96.2%",
+    "date": "14/05/2025, 12:14:57",
+    "mode": "Classic Mode",
+    "score": 715,
+    "wordList": "finnish"
+  },
+  {
+    "username": "test-user",
+    "timeLeft": 38,
+    "wpm": 71,
+    "accuracy": "97.0%",
+    "date": "14/05/2025, 12:21:33",
+    "mode": "Classic Mode",
+    "score": 748,
+    "wordList": "finnish"
+  },
+  {
+    "username": "test-user",
+    "timeLeft": 41,
+    "wpm": 74,
+    "accuracy": "97.8%",
+    "date": "14/05/2025, 12:28:12",
+    "mode": "Classic Mode",
+    "score": 783,
+    "wordList": "finnish"
+  },
+  {
+    "username": "test-user",
+    "wpm": 63,
+    "totalTime": "1:18",
+    "accuracy": "93.5%",
+    "date": "14/05/2025, 16:37:45",
+    "mode": "Zen Mode",
+    "wordList": "swedish"
+  },
+  {
+    "username": "test-user",
+    "wpm": 66,
+    "totalTime": "1:15",
+    "accuracy": "94.2%",
+    "date": "14/05/2025, 16:41:12",
+    "mode": "Zen Mode",
+    "wordList": "swedish"
+  },
+  {
+    "username": "test-user",
+    "wpm": 68,
+    "totalTime": "1:12",
+    "accuracy": "95.0%",
+    "date": "14/05/2025, 16:44:38",
+    "mode": "Zen Mode",
+    "wordList": "swedish"
+  },
+  {
+    "username": "test-user",
+    "timeLeft": 17,
+    "wpm": 63,
+    "accuracy": "94.5%",
+    "date": "15/05/2025, 09:23:19",
+    "mode": "Practice Mode",
+    "score": 635,
+    "wordList": "english"
+  },
+  {
+    "username": "test-user",
+    "timeLeft": 20,
+    "wpm": 66,
+    "accuracy": "95.2%",
+    "date": "15/05/2025, 09:30:45",
+    "mode": "Practice Mode",
+    "score": 665,
+    "wordList": "english"
+  },
+  {
+    "username": "test-user",
+    "timeLeft": 23,
+    "wpm": 69,
+    "accuracy": "96.0%",
+    "date": "15/05/2025, 09:37:28",
+    "mode": "Practice Mode",
+    "score": 701,
+    "wordList": "english"
+  },
+  {
+    "username": "test-user",
+    "timeLeft": 11,
+    "wpm": 87,
+    "accuracy": "97.5%",
+    "date": "15/05/2025, 13:14:56",
+    "mode": "Hard Mode",
+    "score": 872,
+    "wordList": "programming"
+  },
+  {
+    "username": "test-user",
+    "timeLeft": 14,
+    "wpm": 90,
+    "accuracy": "98.2%",
+    "date": "15/05/2025, 13:22:19",
+    "mode": "Hard Mode",
+    "score": 905,
+    "wordList": "programming"
+  },
+  {
+    "username": "test-user",
+    "timeLeft": 17,
+    "wpm": 93,
+    "accuracy": "98.7%",
+    "date": "15/05/2025, 13:29:42",
+    "mode": "Hard Mode",
+    "score": 942,
+    "wordList": "programming"
+  },
+  {
+    "username": "test-user",
+    "timeLeft": 10,
+    "wpm": 63,
+    "accuracy": "94.1%",
+    "date": "15/05/2025, 16:42:28",
+    "mode": "Speedrunner Mode",
+    "score": 644,
+    "wordList": "finnish"
+  },
+  {
+    "username": "test-user",
+    "timeLeft": 12,
+    "wpm": 65,
+    "accuracy": "95.3%",
+    "date": "15/05/2025, 16:48:55",
+    "mode": "Speedrunner Mode",
+    "score": 672,
+    "wordList": "finnish"
+  },
+  {
+    "username": "test-user",
+    "timeLeft": 14,
+    "wpm": 68,
+    "accuracy": "96.2%",
+    "date": "15/05/2025, 16:55:19",
+    "mode": "Speedrunner Mode",
+    "score": 704,
+    "wordList": "finnish"
+  },
+  {
+    "username": "test-user",
+    "timeLeft": 40,
+    "wpm": 76,
+    "accuracy": "97.5%",
+    "date": "16/05/2025, 08:32:47",
+    "mode": "Classic Mode",
+    "score": 795,
+    "wordList": "finnish"
+  },
+  {
+    "username": "test-user",
+    "timeLeft": 43,
+    "wpm": 79,
+    "accuracy": "98.1%",
+    "date": "16/05/2025, 08:39:23",
+    "mode": "Classic Mode",
+    "score": 828,
+    "wordList": "finnish"
+  },
+  {
+    "username": "test-user",
+    "timeLeft": 45,
+    "wpm": 82,
+    "accuracy": "98.5%",
+    "date": "16/05/2025, 08:46:12",
+    "mode": "Classic Mode",
+    "score": 857,
+    "wordList": "finnish"
+  },
+  {
+    "username": "test-user",
+    "timeLeft": 9,
+    "wpm": 72,
+    "accuracy": "96.3%",
+    "date": "16/05/2025, 12:23:45",
+    "mode": "Custom Mode",
+    "score": 734,
+    "wordList": "programming"
+  },
+  {
+    "username": "test-user",
+    "timeLeft": 11,
+    "wpm": 75,
+    "accuracy": "97.1%",
+    "date": "16/05/2025, 12:30:19",
+    "mode": "Custom Mode",
+    "score": 766,
+    "wordList": "programming"
+  },
+  {
+    "username": "test-user",
+    "timeLeft": 13,
+    "wpm": 78,
+    "accuracy": "97.8%",
+    "date": "16/05/2025, 12:36:55",
+    "mode": "Custom Mode",
+    "score": 801,
+    "wordList": "programming"
+  },
+  {
+    "username": "test-user",
+    "wpm": 70,
+    "totalTime": "1:08",
+    "accuracy": "95.5%",
+    "date": "16/05/2025, 16:12:38",
+    "mode": "Zen Mode",
+    "wordList": "english"
+  },
+  {
+    "username": "test-user",
+    "wpm": 73,
+    "totalTime": "1:05",
+    "accuracy": "96.2%",
+    "date": "16/05/2025, 16:16:17",
+    "mode": "Zen Mode",
+    "wordList": "english"
+  },
+  {
+    "username": "test-user",
+    "wpm": 75,
+    "totalTime": "1:02",
+    "accuracy": "96.8%",
+    "date": "16/05/2025, 16:19:45",
+    "mode": "Zen Mode",
+    "wordList": "english"
+  },
+  {
+    "username": "test-user",
+    "timeLeft": 7,
+    "wpm": 55,
+    "accuracy": "92.1%",
+    "date": "17/05/2025, 10:27:56",
+    "mode": "Hard Mode",
+    "score": 532,
+    "wordList": "swedish"
+  },
+  {
+    "username": "test-user",
+    "timeLeft": 9,
+    "wpm": 58,
+    "accuracy": "93.4%",
+    "date": "17/05/2025, 10:34:23",
+    "mode": "Hard Mode",
+    "score": 569,
+    "wordList": "swedish"
+  },
+  {
+    "username": "test-user",
+    "timeLeft": 11,
+    "wpm": 61,
+    "accuracy": "94.7%",
+    "date": "17/05/2025, 10:40:58",
+    "mode": "Hard Mode",
+    "score": 605,
+    "wordList": "swedish"
+  },
+  {
+    "username": "test-user",
+    "timeLeft": 19,
+    "wpm": 68,
+    "accuracy": "95.5%",
+    "date": "17/05/2025, 14:15:42",
+    "mode": "Practice Mode",
+    "score": 689,
+    "wordList": "finnish"
+  },
+  {
+    "username": "test-user",
+    "timeLeft": 22,
+    "wpm": 71,
+    "accuracy": "96.2%",
+    "date": "17/05/2025, 14:22:17",
+    "mode": "Practice Mode",
+    "score": 723,
+    "wordList": "finnish"
+  },
+  {
+    "username": "test-user",
+    "timeLeft": 25,
+    "wpm": 74,
+    "accuracy": "97.0%",
+    "date": "17/05/2025, 14:28:55",
+    "mode": "Practice Mode",
+    "score": 758,
+    "wordList": "finnish"
+  },
+  {
+    "username": "test-user",
+    "timeLeft": 11,
+    "wpm": 65,
+    "accuracy": "94.5%",
+    "date": "17/05/2025, 17:32:19",
+    "mode": "Speedrunner Mode",
+    "score": 667,
+    "wordList": "english"
+  }
+]
