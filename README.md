@@ -2,8 +2,6 @@
 
 Data visualization dashboard for analyzing your typing performance from NerdType. This Streamlit application provides insights into your typing speed, accuracy, and overall performance.
 
-![nerdtype-logo](./images/nt-logo-text-link.png)
-
 ## Installation
 
 1. Clone this repository:
