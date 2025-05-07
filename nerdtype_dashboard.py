@@ -11,9 +11,6 @@ from PIL import Image
 favicon = Image.open("./images/logo-no-keyboard-blue-bg-32x32.png")
 st.set_page_config(page_title="NerdType | Dashboard", layout="wide", page_icon=favicon)
 
-# Choose a color theme (uncomment one of these themes)
-
-# Default Blue Theme
 theme = {
     "primary": "#7aa2f7",  # Primary color
     "secondary": "#1f2335",  # Secondary color
@@ -31,10 +28,9 @@ theme = {
         "#0D47A1",
         "#BBDEFB",
         "#2196F3",
-    ],  # Chart colors
+    ],
 }
 
-# Custom CSS with the selected theme colors
 st.markdown(
     f"""
     <style>
