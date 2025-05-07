@@ -5,9 +5,11 @@ import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
 import streamlit as st
+from PIL import Image
 
 # Set page config
-st.set_page_config(page_title="NerdType | Simple Dashboard", layout="wide")
+favicon = Image.open("./images/logo-no-keyboard-blue-bg-32x32.png")
+st.set_page_config(page_title="NerdType | Dashboard", layout="wide", page_icon=favicon)
 
 # Choose a color theme (uncomment one of these themes)
 
@@ -154,6 +156,11 @@ st.markdown(
     """,
     unsafe_allow_html=True,
 )
+
+
+st.markdown('<div class="center-image">', unsafe_allow_html=True)
+st.image("./images/logo-text-link.png")
+st.markdown("</div>", unsafe_allow_html=True)
 
 # App header
 st.markdown(
