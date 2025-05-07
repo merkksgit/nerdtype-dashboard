@@ -8,7 +8,11 @@ Data visualization dashboard for analyzing your typing performance from NerdType
 
 ## Test data file
 
-The repository includes a test data file: game-data-test.json
+The repository includes a test data file: game-data-test.json, you can download it with:
+
+```
+wget https://raw.githubusercontent.com/merkksgit/nerdtype-dashboard/refs/heads/main/game-data-test.json
+```
 
 ## Installation
 
