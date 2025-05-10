@@ -27,11 +27,11 @@ cd nerdtype-dashboard
 
 ```bash
 # On Windows
-python -m venv venv
+python -m venv .venv
 .venv\Scripts\activate
 
 # On macOS/Linux
-python -m venv venv
+python -m venv .venv
 source .venv/bin/activate
 ```
 
