@@ -28,11 +28,11 @@ cd nerdtype-dashboard
 ```bash
 # On Windows
 python -m venv venv
-venv\Scripts\activate
+.venv\Scripts\activate
 
 # On macOS/Linux
 python -m venv venv
-source venv/bin/activate
+source .venv/bin/activate
 ```
 
 3. Install the required dependencies:
