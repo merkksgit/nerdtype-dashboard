@@ -460,7 +460,7 @@ if uploaded_file is not None:
             '<div class="sub-header">Daily Activity Heatmap</div>', unsafe_allow_html=True
         )
         st.markdown(
-            '<p style="color: #565f89; font-style: italic; margin-bottom: 1rem;">Activity calendar showing your daily typing practice consistency. Darker green squares indicate more games played that day.</p>',
+            '<p style="color: #565f89; font-style: italic; margin-bottom: 1rem;">Activity calendar showing your daily typing practice consistency. Brighter green squares indicate more games played that day.</p>',
             unsafe_allow_html=True
         )
         
