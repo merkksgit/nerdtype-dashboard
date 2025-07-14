@@ -214,7 +214,7 @@ if uploaded_file is not None:
         )
 
         # Create columns for key metrics
-        col1, col2, col3, col4 = st.columns(4)
+        col1, col2, col3, col4, col5 = st.columns(5)
 
         with col1:
             st.metric("Average WPM", f"{df['wpm'].mean():.1f}")
@@ -232,6 +232,9 @@ if uploaded_file is not None:
 
         with col4:
             st.metric("Max WPM", f"{df['wpm'].max():.0f}")
+
+        with col5:
+            st.metric("Total Games", len(df))
 
         # Performance Trends with Tabs
         st.markdown(
